@@ -1,0 +1,7 @@
+node_modules/
+*_inspect.png
+inspect_workbook.mjs
+verify_risk_sheet.mjs
+verify_print.ps1
+outputs/**/*.png
+outputs/**/*.inspect.ndjson
